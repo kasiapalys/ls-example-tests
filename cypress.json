@@ -1,0 +1,15 @@
+{
+    "baseUrl": "https://www.lenstore.co.uk",
+    "blacklistHosts": [
+      "*google-analytics.com",
+      "*livechatinc.com",
+      "*googletagmanager.com",
+      "*visualwebsiteoptimizer.com",
+      "*googleadservices.com",
+      "*doubleclick.net",
+      "*facebook.net",
+      "*bing.com",
+      "*nr-data.net",
+      "*newrelic.com"
+    ]
+}
